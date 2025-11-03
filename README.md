@@ -28,7 +28,9 @@ Enter the diagonal length: 5
 Output:
 The area of the rectangle is: 12
 
-🏷️ Tags
+🔗 Connect with me on LinkedIn: 
+www.linkedin.com/in/ahmad-sindi-61550b325
 
+🏷️ Tags
 #CPlusPlus #Geometry #Algorithms #CodingChallenge #MathLogic #ProgrammingBasics #CppProjects
 
